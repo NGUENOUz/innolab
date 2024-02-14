@@ -7,7 +7,6 @@
 ;    --secondary: #e46000;
     --light: #F7FAFF;
     --dark: #1D1D27;
-
 }
 
 
@@ -543,4 +542,9 @@ h6,
 }
 .btn-devis:hover{
     color: #DDDDDD;
+}
+.navbar-brand{
+   display: flex;
+   flex-direction: row;
+   gap: 4px;
 }
